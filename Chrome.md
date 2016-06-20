@@ -10,3 +10,16 @@ Flash	16.0.0.235
 
 可执行文件路径	E:\Program Files\GoogleChromePortable\App\Google Chrome\Chrome.exe  
 个人资料路径	E:\Program Files\GoogleChromePortable\App\Google Chrome\PortableProfile\Default
+
+---
+
+
+Chromium	26.0.1385.0 (开发者内部版本 176997)  
+操作系统	Windows  
+WebKit	537.27 (@139753)  
+JavaScript	V8 3.16.4  
+Flash	11.2.999.999  
+用户代理	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.27 (KHTML, like Gecko) Chrome/26.0.1385.0 Safari/537.27  
+命令行	"G:\非安装程序\chrome-win32\chrome.exe" --ppapi-flash-path="G:\非安装程序\chrome-win32\PepperFlash\pepflashplayer.dll" --allow-outdated-plugins --flag-switches-begin --flag-switches-end  
+可执行文件路径	G:\非安装程序\chrome-win32\chrome.exe  
+配置文件路径	C:\Documents and Settings\morlet\Local Settings\Application Data\Chromium\User Data\Default  
