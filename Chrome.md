@@ -1,5 +1,8 @@
+非安装chromium下载:  
 http://commondatastorage.googleapis.com/chromium-browser-continuous/index.html  
-https://omahaproxy.appspot.com/  
+chromium 版本查询: 由 正式版本号 查 开发者内部版本号:  
+https://omahaproxy.appspot.com/
+chromium 官网:  
 http://www.chromium.org/getting-involved/download-chromium  
 
 ---
