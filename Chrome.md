@@ -3,6 +3,7 @@ http://commondatastorage.googleapis.com/chromium-browser-continuous/index.html
 chromium 版本查询: 由 正式版本号 查 开发者内部版本号:  
 https://omahaproxy.appspot.com/  
 chromium 官网:  
+http://dev.chromium.org/getting-involved/dev-channel  
 http://www.chromium.org/getting-involved/download-chromium  
 
 ---
